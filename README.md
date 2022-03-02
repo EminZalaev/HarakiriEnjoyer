@@ -1,2 +1,1 @@
-# L0
-# L0
+#L0 task Zalaev Ronin edition 
