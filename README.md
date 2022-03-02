@@ -1,4 +1,4 @@
-#L0 task Samurai Zalaev edition
+L0 task Samurai Zalaev edition
 
 1. Установить Postgresql и создать таблицы
 2. go build
